@@ -10,6 +10,7 @@ public class JavaFirstProgram {
 		System.out.println("third Program");
 		System.out.println("Fourth Program");
 		System.out.println("Fifth Program");
+		System.out.println("Sixth Program");
 
 	}
 
