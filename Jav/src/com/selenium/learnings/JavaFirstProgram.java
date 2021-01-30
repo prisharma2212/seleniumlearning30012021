@@ -8,6 +8,7 @@ public class JavaFirstProgram {
 		System.out.println("First Program ");
 		System.out.println("Second Program");
 		System.out.println("third Program");
+		System.out.println("Fourth Program");
 
 	}
 
